@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+   server:
+      build: .
+      ports:
+         - '8080:8080'
+
+   db:
+      image: mysql
+      environment:
+         MYSQL_USERNAME: user
+         MYSQL_ROOT_PASSWORD: password
+         MYSQL_DATABASE: db
+      volumes:
+         - ./init.sql:/docker-entrypoint-initdb.d/init.sql
