@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  server:
+    build: ./server
+    volumes:
+      - ./server/src/:/var/www/html/
+    networks:
+      my-network:
+
+  db:
+    image: mysql
+    environment:
+      MYSQL_USERNAME: user
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: db
+    volumes:
+      - ./server/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      my-network:
+
+  client:
+    build: ./client
+    ports:
+        - "8080:80"
+    depends_on:
+        - db
+        - server
+
+    volumes:
+        - ./client/src/:/usr/share/nginx/html/
+    networks:
+      my-network:
+
+networks:
+  my-network:

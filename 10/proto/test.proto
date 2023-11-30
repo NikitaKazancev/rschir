@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package main;
+
+import "google/protobuf/empty.proto";
+
+option go_package = "./proto";
+
+service BooksAPI {
+  rpc FindAll(google.protobuf.Empty) returns (Books) {}
+  rpc FindById(ByIdRequest) returns (Book) {}
+  rpc Save(Book) returns (Book) {}
+  rpc Change(Book) returns (Book) {}
+  rpc Delete(ByIdRequest) returns (google.protobuf.Empty) {}
+}
+
+service TasksAPI {
+  rpc FindAll(google.protobuf.Empty) returns (Tasks) {}
+  rpc FindById(ByIdRequest) returns (Task) {}
+  rpc Save(Task) returns (Task) {}
+  rpc Change(Task) returns (Task) {}
+  rpc Delete(ByIdRequest) returns (google.protobuf.Empty) {}
+}
+
+message ByIdRequest {
+  string id = 1;
+}
+
+message Book {
+  string id = 1;
+  string title = 2;
+  string author = 3;
+}
+
+message Books {
+  repeated Book books = 1;
+}
+
+message Task {
+  string id = 1;
+  string title = 2;
+  string content = 3;
+}
+
+message Tasks {
+  repeated Task tasks = 1;
+}

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="555ec5bc-6fb9-4407-a94a-6e478cd3a964" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Swagger" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MgMEzY6zyYs2NaU4DsLnVGFqdg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NIKE/Desktop/university/grooming/grooming-server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;25836f5a495bb163d9f022dcd887ac49&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rschir" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.nk.rschir.RSCHIRApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroomingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="rschir" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.nk.rschir.GroomingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="C:\Users\NIKE\Desktop\university\RSChIR\6\gen" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="https://repo1.maven.org/maven2/org/openapitools/openapi-generator-cli/5.0.0/openapi-generator-cli-5.0.0.jar" />
+      <option name="jdkPath" value="" />
+      <option name="language" value="java" />
+      <option name="specificationPath" value="C:\Users\NIKE\Desktop\university\RSChIR\6\src\main\java\ru\nk\rschir\documents\test.yaml" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GroomingApplication" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="555ec5bc-6fb9-4407-a94a-6e478cd3a964" name="Changes" comment="" />
+      <created>1678184665728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678184665728</updated>
+      <workItem from="1678184666844" duration="21000" />
+      <workItem from="1678184696480" duration="945000" />
+      <workItem from="1678197152700" duration="20000" />
+      <workItem from="1678256289025" duration="33226000" />
+      <workItem from="1678351418037" duration="4514000" />
+      <workItem from="1678357516628" duration="2306000" />
+      <workItem from="1678375153228" duration="2000" />
+      <workItem from="1678375340332" duration="2859000" />
+      <workItem from="1678389744735" duration="8899000" />
+      <workItem from="1678428088249" duration="4231000" />
+      <workItem from="1678440566464" duration="5681000" />
+      <workItem from="1678447150639" duration="5336000" />
+      <workItem from="1678453759169" duration="3767000" />
+      <workItem from="1678465079797" duration="17883000" />
+      <workItem from="1678793248125" duration="23000" />
+      <workItem from="1678793484848" duration="653000" />
+      <workItem from="1678806737023" duration="2976000" />
+      <workItem from="1678879633355" duration="1836000" />
+      <workItem from="1678976519722" duration="1047000" />
+      <workItem from="1678979608746" duration="199000" />
+      <workItem from="1678990771906" duration="47000" />
+      <workItem from="1679000872450" duration="599000" />
+      <workItem from="1679069800564" duration="6500000" />
+      <workItem from="1679228300137" duration="13618000" />
+      <workItem from="1679302771034" duration="182000" />
+      <workItem from="1679303037756" duration="477000" />
+      <workItem from="1679314537511" duration="134000" />
+      <workItem from="1679314691425" duration="5101000" />
+      <workItem from="1679389224807" duration="125000" />
+      <workItem from="1679413728713" duration="2049000" />
+      <workItem from="1679423262598" duration="1000" />
+      <workItem from="1679423819792" duration="631000" />
+      <workItem from="1679480056788" duration="93000" />
+      <workItem from="1679481666763" duration="256000" />
+      <workItem from="1679584097560" duration="161000" />
+      <workItem from="1679764474784" duration="278000" />
+      <workItem from="1679905243180" duration="82000" />
+      <workItem from="1679906190718" duration="1521000" />
+      <workItem from="1679931973545" duration="3819000" />
+      <workItem from="1679936957131" duration="19000" />
+      <workItem from="1680037663585" duration="600000" />
+      <workItem from="1680424488825" duration="26000" />
+      <workItem from="1680808045915" duration="2021000" />
+      <workItem from="1680852225705" duration="26000" />
+      <workItem from="1681584534965" duration="2533000" />
+      <workItem from="1682077907844" duration="353000" />
+      <workItem from="1682930569515" duration="80000" />
+      <workItem from="1682931973565" duration="14890000" />
+      <workItem from="1683057142290" duration="4490000" />
+      <workItem from="1683349736953" duration="8103000" />
+      <workItem from="1686459927715" duration="43000" />
+      <workItem from="1686460004531" duration="16069000" />
+      <workItem from="1686551866740" duration="5276000" />
+      <workItem from="1686649549629" duration="1394000" />
+      <workItem from="1687029354132" duration="63000" />
+      <workItem from="1696089006884" duration="2455000" />
+      <workItem from="1696230786364" duration="1250000" />
+      <workItem from="1696246115930" duration="977000" />
+      <workItem from="1696681914165" duration="26710000" />
+      <workItem from="1696776234127" duration="74000" />
+      <workItem from="1696842494106" duration="2944000" />
+      <workItem from="1696850629779" duration="361000" />
+      <workItem from="1697306348169" duration="13713000" />
+      <workItem from="1697355619290" duration="7522000" />
+      <workItem from="1697455173087" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
